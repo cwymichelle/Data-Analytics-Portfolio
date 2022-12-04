@@ -10,7 +10,7 @@ Analytics tools used: **Python programming language** <img src="https://github.c
 
 ## [Bellabeat Case Study using R](https://rpubs.com/cwymichelle/R_Portfolio)
 Analytics tools used: **R programming language** <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="30" height="30"/> and **RStudio** <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="25" height="25"/>
-* `dplyr`  `ggplot2`  `lubridate`
+* `tidyverse`  `dplyr`  `ggplot2`  `lubridate`
 
 
 Please feel free to contact me if you have any questions or concerns.
